@@ -1,4 +1,4 @@
-## College Tracker! 🎓
+## College Progress Tracker 🎓
 This Excel sheet is designed to help students track their courses, grades, and progress towards their degree - before their hair turns gray from stress! 👴
 
 ## Key Features
